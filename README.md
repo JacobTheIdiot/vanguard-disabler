@@ -1,5 +1,5 @@
 # vanguard disabler
-a simple python script that disables and prevents vanguard and its kernal driver from running on your pc (you can also reenable it if you'd like to play valorant again)
+a simple python script that disables and prevents vanguard and its kernal driver from running on your pc (you can also re-enable it if you'd like to play valorant again)
 
 # how to use
 1. download source code
